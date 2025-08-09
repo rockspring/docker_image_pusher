@@ -1,4 +1,5 @@
 hello-world
+--platform=linux/arm64/v8 mysql:8.0.43
 --platform=linux/arm64 flink:2.1.0
 nginx
 #支持私库
